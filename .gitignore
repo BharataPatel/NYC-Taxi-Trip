@@ -1,0 +1,1 @@
+Set-Content -Path .gitignore -Value "NYC_Taxi_2024.csv"
